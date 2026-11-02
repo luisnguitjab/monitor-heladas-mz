@@ -3,6 +3,7 @@ pandas
 numpy
 plotly
 requests
+requests-cache
 scikit-learn
 joblib
 gunicorn
