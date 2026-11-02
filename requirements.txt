@@ -3,6 +3,6 @@ pandas
 numpy
 plotly
 requests
+tflite-runtime
 scikit-learn
-tensorflow
 gunicorn
