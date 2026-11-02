@@ -7,7 +7,8 @@ import plotly.graph_objects as go
 import plotly.express as px
 
 # Importación del backend modularizado ampliado con Localidades
-from backend import FINCAS_MENDOZA, obtener_datos_clima, ejecutar_backend_analitico
+# from backend import FINCAS_MENDOZA, obtener_datos_clima, ejecutar_backend_analitico
+from backend import FINCAS_MENDOZA, ejecutar_backend_analitico, obtener_datos_clima
 
 # ==========================================
 # Inicialización de la aplicación Dash
